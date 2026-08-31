@@ -1,0 +1,19 @@
+{
+  "name": "codewithai-nuxt",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "nuxt": "^3.13.0",
+    "tailwindcss": "^4.3.3",
+    "vue": "^3.4.38",
+    "vue-router": "^4.4.3"
+  }
+}
